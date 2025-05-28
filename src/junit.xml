@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" errors="0" time="0.146">
+  <testsuite name="summarizePlayers – basic cases" errors="0" failures="0" skipped="0" timestamp="2025-05-29T09:36:16" time="0.124" tests="3">
+    <testcase classname="summarizePlayers – basic cases example input" name="summarizePlayers – basic cases example input" time="0.002">
+    </testcase>
+    <testcase classname="summarizePlayers – basic cases tie on mvp uses avgPointsScoredPerGame as tiebreaker" name="summarizePlayers – basic cases tie on mvp uses avgPointsScoredPerGame as tiebreaker" time="0">
+    </testcase>
+    <testcase classname="summarizePlayers – basic cases empty input returns empty array" name="summarizePlayers – basic cases empty input returns empty array" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>

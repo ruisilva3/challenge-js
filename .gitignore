@@ -1,0 +1,4 @@
+.idea
+src/node_modules
+src/.tool-versions
+src/package-lock.json
